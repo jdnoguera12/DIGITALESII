@@ -1,5 +1,0 @@
-Message[302] C:\USERS\LOGICOS\DESKTOP\EJEMPLOENSAMBLADOR\EJEMPLO1.X\MAINPINES.ASM 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\LOGICOS\DESKTOP\EJEMPLOENSAMBLADOR\EJEMPLO1.X\MAINPINES.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\LOGICOS\DESKTOP\EJEMPLOENSAMBLADOR\EJEMPLO1.X\MAINPINES.ASM 32 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[305] C:\USERS\LOGICOS\DESKTOP\EJEMPLOENSAMBLADOR\EJEMPLO1.X\MAINPINES.ASM 39 : Using default destination of 1 (file).
-Warning[207] C:\USERS\LOGICOS\DESKTOP\EJEMPLOENSAMBLADOR\EJEMPLO1.X\MAINPINES.ASM 43 : Found label after column 1. (RETARDO)
